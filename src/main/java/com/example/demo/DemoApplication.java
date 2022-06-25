@@ -9,5 +9,8 @@ public class DemoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
 	}
+	void test(){
+		System.out.println("Check in 1");
+	}
 
 }
