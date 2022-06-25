@@ -12,6 +12,7 @@ public class DemoApplication {
 	void test(){
 		System.out.println("Check in 1");
 		System.out.println("Check in 2");
+		System.out.println("Check in 3");
 	}
 
 }
